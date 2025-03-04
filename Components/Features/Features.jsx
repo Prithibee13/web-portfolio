@@ -56,7 +56,7 @@ const Features = () => {
     ]
     return (
         <div className="p-20 mt-20 mb-10">
-            <h2 className="text-2xl font-bold text-center mb-10">Featuers</h2>
+            <h2 className="text-2xl font-bold text-center mb-10">Featuers and Services</h2>
 
             <article className="grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 gap-16">
                 {

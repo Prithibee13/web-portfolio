@@ -1,0 +1,24 @@
+.monicar
+{
+    color: #0D92F4;
+}
+
+.cvBtn
+{
+    width: 150px;
+    height: 50px;
+    background-color: #024CAA;
+    color: #eee;
+}
+
+.cvBtn:hover
+{
+    background-color: #eee;
+    color: #024CAA;
+    border: 2px solid #024CAA;
+}
+
+.texts 
+{
+    font-size: 18px;
+}
