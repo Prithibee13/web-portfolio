@@ -53,6 +53,9 @@ const Projects = () => {
         }
     ]
 
+
+   
+
     const pressHandle = (link) => {
         window.location.href = link
     }
@@ -66,7 +69,7 @@ const Projects = () => {
                 }
             </article>
             <div className="text-center">
-                <button>See all</button>
+                <button className={classes.load}>See all</button>
             </div>
 
         </div>
