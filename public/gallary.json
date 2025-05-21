@@ -1,0 +1,230 @@
+[
+    {
+        "slugId": 1,
+        "title": "Builder App",
+        "detailes": "A landing page for construction hub",
+        "mainImg": "https://i.postimg.cc/C1Xqw3gn/pro1.png",
+        "link": "https://github.com/Prithibee13/Builder",
+        "Gallary" : ["https://i.postimg.cc/2SBSRvpK/por1.png", "https://i.postimg.cc/yYxNjtLB/por2.png", "https://i.postimg.cc/D0jwFPyt/por3.png", "https://i.postimg.cc/LXSXVsb0/por4.png", "https://i.postimg.cc/mZ8DQBN8/por5.png", "https://i.postimg.cc/DZczpTVf/por6.png", "https://i.postimg.cc/gjk2fTdV/por8.png"],
+        "technology" : [
+            {
+                "id": 1,
+                "img" : "https://i.postimg.cc/hjGprLQv/por.png",
+                "title" : "Next Js"
+            },
+            {
+                "id":2,
+                "img" : "https://i.postimg.cc/vTQqV7Y0/por.webp" ,
+                "title" : "Tailwind"
+            },
+            {
+                "id": 3,
+                "img" : "https://i.postimg.cc/bJBpGNk5/api.png",
+                "title" : "Rest Api"
+            },
+            {
+                "id": 4,
+                "img" : "https://i.postimg.cc/7YghR0gY/json.png",
+                "title" : "JSON"
+            }
+            
+        ]
+    },
+    {
+        "slugId": 2,
+        "title": "E-Learning",
+        "detailes": "A landing page for E-learn platform. An SPA site for exclusive learning courses.",
+        "mainImg": "https://i.postimg.cc/hjzDH7z8/por9.png",
+        "link": "https://github.com/Prithibee13/e-learning",
+       "Gallary" : ["https://i.postimg.cc/c1F3M6dX/por21.jpg", "https://i.postimg.cc/2SZBDwhK/por22.jpg", "https://i.postimg.cc/283ZHm6m/por23.jpg", "https://i.postimg.cc/VLTbpTrt/por24.jpg", "https://i.postimg.cc/PJ5wnnQW/por25.jpg"],
+        "technology" : [
+            {
+                "id": 1,
+                "img" : "https://i.postimg.cc/hjGprLQv/por.png",
+                "title" : "Next Js"
+            },
+            {
+                "id":2,
+                "img" : "https://i.postimg.cc/vTQqV7Y0/por.webp" ,
+                "title" : "Tailwind"
+            },
+            {
+                "id": 3,
+                "img" : "https://i.postimg.cc/bJBpGNk5/api.png",
+                "title" : "Rest Api"
+            },
+            {
+                "id": 4,
+                "img" : "https://i.postimg.cc/7YghR0gY/json.png",
+                "title" : "JSON"
+            }
+            
+        ]
+    },
+    {
+        "slugId": 3,
+        "title": "Burger Mania Review site",
+        "detailes": "A restaurant review site",
+        "mainImg": "https://i.postimg.cc/J08hZz0b/por11.png",
+        "link": "https://github.com/Prithibee13/Burger-Mania",
+        "Gallary" : ["https://i.postimg.cc/2SBSRvpK/por1.png", "https://i.postimg.cc/yYxNjtLB/por2.png", "https://i.postimg.cc/D0jwFPyt/por3.png", "https://i.postimg.cc/LXSXVsb0/por4.png", "https://i.postimg.cc/mZ8DQBN8/por5.png", "https://i.postimg.cc/DZczpTVf/por6.png", "https://i.postimg.cc/gjk2fTdV/por8.png"],
+        "technology" : [
+            {
+                "id": 1,
+                "img" : "https://i.postimg.cc/1t07xynZ/pix16.png",
+                "title" : "React Js"
+            },
+            {
+                "id":2,
+                "img" : "https://i.postimg.cc/kXt36FN0/bootstrap.png" ,
+                "title" : "Bootstrap"
+            },
+            {
+                "id": 3,
+                "img" : "https://i.postimg.cc/bJBpGNk5/api.png",
+                "title" : "Rest Api"
+            },
+            {
+                "id": 4,
+                "img" : "https://i.postimg.cc/7YghR0gY/json.png",
+                "title" : "JSON"
+            }
+            
+        ]
+    },
+    {
+        "slugId": 4,
+        "title": "Food Man",
+        "detailes": "A restaurant Landing Page. A Desktop only restaurant Landing Page.",
+        "mainImg": "https://i.postimg.cc/VsFf215V/por10.png",
+        "link": "https://github.com/Prithibee13/foodman",
+        "Gallary" : ["https://i.postimg.cc/zXpWhKJk/por30.jpg", "https://i.postimg.cc/cLH3BCCG/por31.jpg", "https://i.postimg.cc/Dfr12RHH/por32.jpg", "https://i.postimg.cc/WzwZXJ0T/por33.jpg", "https://i.postimg.cc/J4RZtPWn/por34.jpg", "https://i.postimg.cc/Fz4cyxdT/por35.jpg"],
+        "technology" : [
+            {
+                "id": 1,
+                "img" : "https://i.postimg.cc/1t07xynZ/pix16.png",
+                "title" : "React Js"
+            },
+            {
+                "id":2,
+                "img" : "https://i.postimg.cc/kXt36FN0/bootstrap.png" ,
+                "title" : "Bootstrap"
+            },
+            {
+                "id": 3,
+                "img" : "https://i.postimg.cc/bJBpGNk5/api.png",
+                "title" : "Rest Api"
+            },
+            {
+                "id": 4,
+                "img" : "https://i.postimg.cc/7YghR0gY/json.png",
+                "title" : "JSON"
+            }
+            
+        ]
+    },
+    {
+        "slugId": 5,
+        "title": "Shutter Studio",
+        "detailes": "A photography influencer's service site",
+        "mainImg": "https://i.postimg.cc/hv9R8L6j/por13.png",
+        "link": "https://github.com/Prithibee13/Shutter-Studio",
+        "Gallary" : ["https://i.postimg.cc/2SBSRvpK/por1.png", "https://i.postimg.cc/yYxNjtLB/por2.png", "https://i.postimg.cc/D0jwFPyt/por3.png", "https://i.postimg.cc/LXSXVsb0/por4.png", "https://i.postimg.cc/mZ8DQBN8/por5.png", "https://i.postimg.cc/DZczpTVf/por6.png", "https://i.postimg.cc/gjk2fTdV/por8.png"],
+        "technology" : [
+            {
+                "id": 1,
+                "img" : "",
+                "title" : "Next Js"
+            },
+            {
+                "id":2,
+                "img" : "" ,
+                "title" : "Tailwind"
+            },
+            {
+                "id": 3,
+                "img" : "https://i.postimg.cc/bJBpGNk5/api.png",
+                "title" : "Rest Api"
+            },
+            {
+                "id": 4,
+                "img" : "https://i.postimg.cc/7YghR0gY/json.png",
+                "title" : "JSON"
+            }
+            
+        ]
+    },
+    {
+        "slugId": 6,
+        "title": "Fruity",
+        "detailes": "A fruit inventory site",
+        "mainImg": "https://i.postimg.cc/2jvYfYyD/por14.png",
+        "link": "https://github.com/Prithibee13/Fruity",
+        "Gallary" : ["https://i.postimg.cc/2SBSRvpK/por1.png", "https://i.postimg.cc/yYxNjtLB/por2.png", "https://i.postimg.cc/D0jwFPyt/por3.png", "https://i.postimg.cc/LXSXVsb0/por4.png", "https://i.postimg.cc/mZ8DQBN8/por5.png", "https://i.postimg.cc/DZczpTVf/por6.png", "https://i.postimg.cc/gjk2fTdV/por8.png"],
+        "technology" : [
+            {
+                "id": 1,
+                "img" : "https://i.postimg.cc/1t07xynZ/pix16.png",
+                "title" : "React Js"
+            },
+            {
+                "id":2,
+                "img" : "https://i.postimg.cc/kXt36FN0/bootstrap.png" ,
+                "title" : "Bootstrap"
+            },
+            {
+                "id": 3,
+                "img" : "https://i.postimg.cc/bJBpGNk5/api.png",
+                "title" : "Rest Api"
+            },
+            {
+                "id": 4,
+                "img" : "https://i.postimg.cc/7YghR0gY/json.png",
+                "title" : "JSON"
+            }
+            
+        ]
+    },
+    {
+        "slugId": 7,
+        "title": "Cell Monger",
+        "detailes": "A Mobile Phone Showcasing Web Application.",
+        "mainImg": "https://i.postimg.cc/XvJ3MyGH/por15.png",
+        "link": "https://github.com/Prithibee13/Cell-Monger",
+       "Gallary" : ["https://i.postimg.cc/2SBSRvpK/por1.png", "https://i.postimg.cc/yYxNjtLB/por2.png", "https://i.postimg.cc/D0jwFPyt/por3.png", "https://i.postimg.cc/LXSXVsb0/por4.png", "https://i.postimg.cc/mZ8DQBN8/por5.png", "https://i.postimg.cc/DZczpTVf/por6.png", "https://i.postimg.cc/gjk2fTdV/por8.png"],
+        "technology" : [
+            {
+                "id": 1,
+                "img" : "https://i.postimg.cc/6p0QQvk7/pix13.png",
+                "title" : "JavaScript"
+            },
+            {
+                "id":2,
+                "img" : "https://i.postimg.cc/vTQqV7Y0/por.webp" ,
+                "title" : "Tailwind"
+            },
+            {
+                "id": 3,
+                "img" : "https://i.postimg.cc/bJBpGNk5/api.png",
+                "title" : "Rest Api"
+            },
+            {
+                "id": 4,
+                "img" : "https://i.postimg.cc/7YghR0gY/json.png",
+                "title" : "JSON"
+            }
+            
+        ]
+    },
+    {
+        "slugId": 8,
+        "title": "E-Learn",
+        "detailes": "A Landing Mobile app for E-learning platform",
+    
+        "mainImg": "https://i.postimg.cc/K8Kvkk1Y/freepik-background-88815.png",
+        "link": "https://github.com/Prithibee13/E-learn",
+        "Gallary" : [ "https://i.postimg.cc/RFjm1cpj/pix.png", "https://i.postimg.cc/rp32BJ2d/freepik-upload-41027.png","https://i.postimg.cc/dVWYBFWj/Mobile-App-Screen-Mockup.jpg","https://i.postimg.cc/bJnfptqm/Mobile-App-Screen-Mockup-Floating.png" ],
+        
+        "technology" : [{"id" : 1, "img" :"https://i.postimg.cc/Pxxdr8pZ/physics.png", "title": "React-Native" },{"id" : 2, "img" : "https://i.postimg.cc/bJBpGNk5/api.png", "title" : "Rest Api"}, {"id" : 3, "img" : "https://i.postimg.cc/7YghR0gY/json.png", "title": "JSON"}]
+    }
+]

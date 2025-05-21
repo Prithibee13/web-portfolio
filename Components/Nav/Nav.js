@@ -19,6 +19,9 @@ const Nav = () => {
                         <Link href="/projects">Projects</Link>
                     </div>
                     <div>
+                        <Link href="/projects">Research</Link>
+                    </div>
+                    <div>
                         <Link href="/service">Services</Link>
                     </div>
                     <div>
